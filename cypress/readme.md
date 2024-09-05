@@ -2,7 +2,7 @@
 
 # 🚀 Configuração do Ambiente para Cypress
 
-Este projeto faz parte de um desafio para uma vaga de QA Pleno. Abaixo, você encontrará um guia passo a passo para configurar o ambiente necessário para rodar os testes automatizados usando Cypress.
+Este projeto faz parte de um desafio para um QA. Abaixo, você encontrará um guia passo a passo para configurar o ambiente necessário para rodar os testes automatizados usando Cypress.
 
 ## 🛠️ Pré-requisitos
 
