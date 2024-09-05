@@ -66,4 +66,4 @@ def test_criar_produto():
     assert response.status_code == 201, f"Esperado 201, mas recebeu {response.status_code}"
 
 
-test_criar_produto()
+#test_criar_produto()

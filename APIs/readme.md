@@ -1,4 +1,4 @@
-# Etapa IV - Automação de Teste de API 🚀
+# Etapa IV - Automação de Teste de API 🤖
 
 ## Desafio
 

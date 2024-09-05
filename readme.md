@@ -1,4 +1,4 @@
-# Projeto de Automação de Testes QA 🚀
+# Projeto de Automação de Testes QA 🧪
 
 ## Introdução
 
