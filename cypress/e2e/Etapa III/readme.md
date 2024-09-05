@@ -26,7 +26,7 @@ Nesta terceira etapa do desafio, queremos aprofundar nosso entendimento e compre
 A automação foi realizada utilizando Cypress, um framework popular para automação de testes end-to-end. O fluxo descrito acima foi implementado conforme o código abaixo:
 
 ```jsx
-javascriptCopiar código
+
 describe('Automação de Busca Trivago', () => {
 
   const url = 'https://www.trivago.com.br/';
@@ -90,7 +90,6 @@ Durante o desenvolvimento da automação, encontrei dificuldades em identificar 
 Para abrir o Cypress e executar o teste, utilize o comando abaixo:
 
 ```bash
-bashCopiar código
 npx cypress open
 
 ```
