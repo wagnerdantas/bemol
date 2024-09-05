@@ -12,4 +12,4 @@ Este projeto é dividido em etapas que incluem a automação de testes em difere
 2. [Configuração do Ambiente de Automação Web](https://github.com/wagnerdantas/bemol/tree/master/cypress) 🤖
 3. [Desafio II - Automação de Teste Web I](https://github.com/wagnerdantas/bemol/tree/master/cypress/e2e/Etapa%20II) 🤖
 4. [Desafio III - Automação de Teste Web II](https://github.com/wagnerdantas/bemol/tree/master/cypress/e2e/Etapa%20III) 🤖
-5. [Desafio IV - Automação de Teste de API I](https://github.com/wagnerdantas/bemol/tree/master/APIs) 🔍
+5. [Desafio IV - Automação de Teste de API I](https://github.com/wagnerdantas/bemol/tree/master/APIs) 🤖
