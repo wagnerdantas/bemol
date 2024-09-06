@@ -6,7 +6,7 @@ describe('Automação de Busca no site dos Correios', () => {
     cy.visit(url); // Visita a página dos Correios
   });
 
-  it('Busca por CEP "69005-040" (Caminho Feliz)', () => {
+  it('Busca por CEP "69005-040" (Valida CEP)', () => {
     cy.get('#endereco').type('69005-040'); // Preenche o campo de busca
     cy.get('#tipoCEP').select('Todos'); // Seleciona o tipo de busca
     cy.get('#captcha').should('be.visible'); // Aguarda o campo CAPTCHA estar visível

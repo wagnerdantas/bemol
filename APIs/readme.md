@@ -37,7 +37,8 @@ Nesta etapa final, o objetivo é demonstrar sua habilidade em automação de tes
     - Execute o seguinte comando para instalar as bibliotecas necessárias:
         
         ```bash
-        pip install pytest requestsExecutar os Testes
+        pip install pytest
+        pip install -r requirements.txt
         ```
         
 3. **Executar no PyCharm**:
